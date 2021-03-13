@@ -5,6 +5,7 @@ el siguiente repositorio presenta scrips de  bash, c y python, que permiten la c
 Para la implementación de C, se utilizo la ligreria wiringPi y para la implementación de python, se utilizo RPi.GPIO, esto con el fin de poder acceder al GPIO de la tarjeta.
 Para la implementación de los scripts no se empleo ningun tipo de sleep, dado a que se requeria que la velocidad de conmutación fuera la maxima  posible del sistema.
 las implementaciones fueron las siguientes:
+
 Bash  -----> https://github.com/nicolasego/embebidos-proyecto1/blob/main/bashpro.sh
 C     -----> https://github.com/nicolasego/embebidos-proyecto1/blob/main/codigoc.c
 python-----> https://github.com/nicolasego/embebidos-proyecto1/blob/main/python.py
