@@ -8,7 +8,7 @@ GPIO.setmode(GPIO.BOARD)
 #se pone el pin 11 fisico de la tarjeta que corresponde con el 17 del GPIO como salida
 GPIO.setup(11,GPIO.OUT)
 #se crea el bucle para subir y bajar el pin del GPIO
-while 1:
+while true:
 	#se pone en alto el pin 11
 	GPIO.output(11, GPIO.HIGH)
 	#se baja el pin 11
