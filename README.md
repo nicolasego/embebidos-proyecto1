@@ -7,7 +7,9 @@ Para la implementación de los scripts no se empleo ningun tipo de sleep, dado a
 las implementaciones fueron las siguientes:
 
 Bash  -----> https://github.com/nicolasego/embebidos-proyecto1/blob/main/bashpro.sh
+
 C     -----> https://github.com/nicolasego/embebidos-proyecto1/blob/main/codigoc.c
+
 python-----> https://github.com/nicolasego/embebidos-proyecto1/blob/main/python.py
 
 Por otro lado, el repositorio cuenta con un script adicional, que fue utilizado para la  extracción de medida de temperatura del sensor DS18B20 que funciona con protocolo 1-wire.
