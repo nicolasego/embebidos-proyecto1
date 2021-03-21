@@ -14,6 +14,7 @@ python-----> https://github.com/nicolasego/embebidos-proyecto1/blob/main/python.
 
 Por otro lado, el repositorio cuenta con un script adicional, que fue utilizado para la  extracción de medida de temperatura del sensor DS18B20 que funciona con protocolo 1-wire.
 En dicho script, se accede a la medida y se envia a un archivo CSV, en el encontramos una columna que presenta la fecha y hora de la extracción de la medida y una segunda columna que corresponde con la medidad de temperatura ajustada a dos cifras significativas despues de la coma.
-la implementación se puede encontrar en:
+
+la implementación se puede encontrar en: 
 https://github.com/nicolasego/embebidos-proyecto1/blob/main/temperatura.sh
 
